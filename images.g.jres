@@ -1,0 +1,31 @@
+{
+    "image1": {
+        "data": "hwQNABAAAAAAAAAAIN0N4ADg7gAi3Q3uIN7tICLSiO4i7t4tIoiI7iLe3o2IhYgAIt3dLYKICAAi3d0tgogIACLd3S2IhYgAIv/9LSKIiO4g3f8NItKI7iDQ/Q0i3Q3uIND9ACDdDeAAAA0AAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQNABAAAAAAAA0AAAAAACDQ/QAg3Q3gIND9DSLdDe4g3f8NItKI7iL//S0iiIjuIt3dLYiFiAAi3d0tgogIACLd3S2CiAgAIt7ejYiFiAAi7t4tIoiI7iDe7SAi0ojuAODuACLdDe4AAAAAIN0N4A==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    ",Hu:a(": {
+        "namespace": "Thm1[D`s%O0_U",
+        "id": ",Hu:a(",
+        "mimeType": "application/mkcd-animation",
+        "data": "NTAwMDBkMDAxMDAwMDIwMDAwMjAyMjIyMDIwMDAwMjAyMjIyMjIyMjAyMDBlZWRlZGRkZjAwMDBkZWRlZGRmZGRkMGRlMGVkZGVkZGZkZGQwZGVlZGRkZGZkZmYwZjAwZDBkZGRkZGQwZDAwMjA4MjIyMjIwMDAwMDAyMjI4ODIyMjAyMDAyMjgyODgyODIyMDIyMGQyODU1ODI4ZGQwMGRkOGQ4ODg4ZDIwMDAwZGQ4ODg4ODgwMDAwOGUwODAwODgwODAwZTBlZTBlMDBlZTBlMDAwMDAwMDBlMGVlMGUwMDIwMjIyMjAyMDAwMDIwMjIyMjIyMjIwMjAwZWVkZWRkZGYwMDAwZGVkZWRkZmRkZDBkZTBlZGRlZGRmZGRkMGRlZWRkZGRmZGZmMGYwMGQwZGRkZGRkMGQwMDAwODIyMjIyMDAwMDAwMjIyODgyMjIwMjAwMjA4Mjg4MjgyMjBkMjBkMmRkNTgyOGRkMDBkMmRkODg4OGQyZGQwMDg4ODg4ODg4MDAwMDgwODgwMDhlMDgwMGUwZWUwMGUwZWUwZTAwZWVlZTAwMDAwMDAw",
+        "displayName": "mario run R"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "NTAwMDBkMDAxMDAwMDIwMDAwMDAyMjIyMjIwMDAwMjIyMjIyMjIyMjAwMDBkMGRmZGRlZTBlMDBkZGZkZGRkZGRlMGVkZGZkZGRkZGVlZWQwMGZmZmZkZGRkZWQwZTAwZGRkZGRkZGQwMDAwMDAyMDIyODIyMjAwMDAyMjgyMjIyODAyMDAyMjIyODg4ODIyMDJkMDJkNTg4OGQ1MjIwMGQwODI4ODg4ZGQwZDAwODA4ODg4ZDgwZDAwMDA4ODA4MDA4ODBlMDBlZTBlMDBlZWVlMDBlZWVlMDAwMDAwMDAwMDAwMjIyMjIyMDAwMDIyMjIyMjIyMjIwMDAwZDBkZmRkZWUwZTAwZGRmZGRkZGRkZTBlZGRmZGRkZGRlZWVkMDBmZmZmZGRkZGVkMGUwMGRkZGRkZGRkMDAwMDAwMjAyMjgyMDIwMDAwMjI4MjIyMjgwMjAwMmQyMjg4ODgyMjAwZDAyZDU4ZDhkZDIyZDBkZDgyODhkOGRkMDIwMDgwODg4ODg4MDgwMDAwODgwZTgwODgwMDAwZWVlZTAwZTBlZTAwMDAwMDAwZTBlZTBl",
+        "displayName": "mario run R0"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
